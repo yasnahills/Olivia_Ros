@@ -23,10 +23,10 @@
     font-weight: var(--bold);
   }
 
-  .bg-black {
+  .bg-softBlack{
     background-color: var(--black);
   }
-
+  
   .bg-blue {
     background-color: var(--blue);
   }
