@@ -27,11 +27,14 @@
     background-color: var(--black);
   }
   
-  .bg-blue {
+  .bg-softBlue {
     background-color: var(--blue);
   }
+  .border-blue{
+    border: solid 1px var(--blue);
+}
 
-  .c-white {
+.c-white {
     color: var(--white);
   }
 
@@ -43,5 +46,14 @@
     color: var(--light-blue);
   }
   
-
+/*Estilos cabecera custom*/
+.section-foto{
+  background-image: url(/assets/img/bg-hero.jpg);
+  height: 630px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  font-size: 70px;
+}
   
